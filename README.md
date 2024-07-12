@@ -1,4 +1,9 @@
-### Hi there 👋
+## 主な活動場所
+
+- [X(Twitter)](https://x.com/naopusyu)
+- [Zenn](https://zenn.dev/naopusyu)
+- [note](https://note.com/naopusyu/)
+- [しすかなインターネット](https://sizu.me/naopusyu)
 
 <!--
 **naopusyu/naopusyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
