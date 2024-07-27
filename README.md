@@ -5,6 +5,17 @@
 - [note](https://note.com/naopusyu/)
 - [しすかなインターネット](https://sizu.me/naopusyu)
 
+## プロフィールサイト
+
+- [Pinkary](https://pinkary.com/@naopusyu)
+- [Bento](https://bento.me/naopusyu)
+
+## その他
+
+- [Bluesky](https://bsky.app/profile/naopusyu.bsky.social)
+- [Qiita](https://qiita.com/naopusyu)
+- [ドクセル](https://www.docswell.com/user/naopusyu)
+
 <!--
 **naopusyu/naopusyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
