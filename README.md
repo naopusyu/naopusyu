@@ -15,7 +15,7 @@
 - [Bluesky](https://bsky.app/profile/naopusyu.bsky.social)
 - [Qiita](https://qiita.com/naopusyu)
 - [ドクセル](https://www.docswell.com/user/naopusyu)
-
+- [mixi2](https://mixi.social/@naopusyu)
 <!--
 **naopusyu/naopusyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
