@@ -8,7 +8,7 @@
 ## プロフィールサイト
 
 - [Pinkary](https://pinkary.com/@naopusyu)
-- [Bento](https://bento.me/naopusyu)
+- ~~[Bento](https://bento.me/naopusyu)~~ （2026年2月13日に終了する）
 
 ## その他
 
@@ -16,6 +16,7 @@
 - [Qiita](https://qiita.com/naopusyu)
 - [ドクセル](https://www.docswell.com/user/naopusyu)
 - [mixi2](https://mixi.social/@naopusyu)
+
 <!--
 **naopusyu/naopusyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
