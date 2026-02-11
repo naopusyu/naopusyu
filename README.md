@@ -1,21 +1,6 @@
-## 主な活動場所
+## 🍫私について🌿
 
-- [X(Twitter)](https://x.com/naopusyu)
-- [Zenn](https://zenn.dev/naopusyu)
-- [note](https://note.com/naopusyu/)
-- [しすかなインターネット](https://sizu.me/naopusyu)
-
-## プロフィールサイト
-
-- [Pinkary](https://pinkary.com/@naopusyu)
-- ~~[Bento](https://bento.me/naopusyu)~~ （2026年2月13日に終了する）
-
-## その他
-
-- [Bluesky](https://bsky.app/profile/naopusyu.bsky.social)
-- [Qiita](https://qiita.com/naopusyu)
-- [ドクセル](https://www.docswell.com/user/naopusyu)
-- [mixi2](https://mixi.social/@naopusyu)
+これまでの活動は[こちら](https://own.page/naopusyu)
 
 <!--
 **naopusyu/naopusyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
