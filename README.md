@@ -1,7 +1,6 @@
 ## 🍫私について🌿
 
-これまでの活動は[こちら](https://own.page/naopusyu)
-
+これまでの活動は[こちら](https://choco-mint.garden/portfolio/)
 <!--
 **naopusyu/naopusyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
